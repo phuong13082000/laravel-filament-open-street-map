@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "laravel-boost": {
+      "command": "D:\\sdk\\php\\php8.3\\php.exe",
+      "args": [
+        "D:\\Code\\laravel\\laravel-filament-open-street-map\\artisan",
+        "boost:mcp"
+      ]
+    }
+  }
+}
